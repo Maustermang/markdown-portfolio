@@ -1,1 +1,6 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**Knowledge**
+* Programming languages:
+  * _C/C++_
+  * _Java_
+  * _Python_
+* _git_:tada:
