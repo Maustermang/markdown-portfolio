@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* Favorite books:
+  * Sophie's World
+  * Fermat's last theorem
+  * Brave new world
